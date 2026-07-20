@@ -5,7 +5,7 @@ attrs==19.1.0
 Babel==2.6.0
 base58==1.0.3
 billiard==3.5.0.5
-celery==4.1.1
+celery==5.2.2
 certifi==2019.6.16
 chardet==3.0.4
 dictalchemy==0.1.2.7
