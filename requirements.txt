@@ -6,7 +6,7 @@ Babel==2.6.0
 base58==1.0.3
 billiard==3.5.0.5
 celery==4.1.1
-certifi==2019.6.16
+certifi==2023.7.22
 chardet==3.0.4
 dictalchemy==0.1.2.7
 falcon==1.4.1
