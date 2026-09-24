@@ -15,7 +15,7 @@ greenlet==0.4.15
 gunicorn==19.9.0
 idna==2.8
 jsonschema==2.6.0
-kombu==4.2.2.post1
+kombu==4.6.11
 Mako==1.0.8
 MarkupSafe==1.1.1
 meinheld==1.0.1
